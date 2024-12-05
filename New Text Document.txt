@@ -1,0 +1,5 @@
+remove br
+mobile waladi % walin padding denna media@
+header padding
+about img  width 100%
+about title mobile padding hadanna
